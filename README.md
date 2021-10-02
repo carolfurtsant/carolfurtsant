@@ -1,0 +1,3 @@
+- 👋 Olá, sou @carolfurtsant
+- 👀 Estou interessado em Backend
+- 🌱 Atualmente estou aprendendo Python
